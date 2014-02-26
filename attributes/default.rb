@@ -11,5 +11,5 @@ default['modules']['packages'] = value_for_platform_family(
     },
     "default" => ["kmod"],
   ),
-  "default" => [],
+  "default" => []
 )
